@@ -1,3 +1,7 @@
 # KnockUpCodes
 
-These are "Knock up" codes to be used for "knocking up" (practise).
+---
+
+- These are practise codes related to various aspects of SLAM.
+- The repo is on Gitlab and has a mirror on Github.
+- For the theory and inferences, refer the [Notes repo](https://gitlab.com/fm-driverless/slam/notes).

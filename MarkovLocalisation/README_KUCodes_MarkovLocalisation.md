@@ -1,6 +1,10 @@
-# README for Markov Localisation
+# README for KnockUp codes on Markov Localisation
 
-## Files:
+---
+
+Acknowledgements: Udacity
+
+## Files
 1. `initialize_priors.cpp`: Code to initialise priors for a non-circular world.
 2. `normpdf_test.cpp`: Test code for normal function pdf probability.
 3. `observation_model.cpp`: Code for an observation model, calculates likelihood probability based on landmark proximity.
@@ -9,6 +13,7 @@
 6. `help_functions.h`: Helper header file for handling some math.
 7. `test.cpp`: Just a random file, completely useless.
 
-Note: Hard-coded values for variables, not live I/O.
+## Note
+- Hard-coded values for variables, not live I/O.
 
 *For more info, read the code.*:monkey:
