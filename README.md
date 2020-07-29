@@ -1,4 +1,4 @@
-# KnockUpCodes
+# SLAM Miscellaneous
 
 ---
 
